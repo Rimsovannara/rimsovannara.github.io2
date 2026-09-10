@@ -2,7 +2,7 @@
 
 > A modern, single-page developer portfolio built with vanilla HTML, CSS, and JavaScript.
 
-**🌐 Live Demo:** [rimsovannara.github.io](https://rimsovannara.github.io2)
+**🌐 Live Demo:** [rimsovannara.github.io](https://rimsovannara.github.io/rimsovannara.github.io2/)
 
 ---
 
